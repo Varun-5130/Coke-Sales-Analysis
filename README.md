@@ -7,6 +7,8 @@ The Coke Sales Analysis project focuses on analyzing beverage sales data to unco
 
 The analysis is performed using Microsoft Excel, leveraging pivot tables, charts, and data visualization techniques to support data-driven decision-making.
 
+
+
 🎯 Objectives
 
 Analyze monthly sales trends to identify seasonal patterns
@@ -18,6 +20,8 @@ Evaluate brand-wise contribution to total revenue
 Measure retailer contribution to overall sales
 
 Provide strategic recommendations for business improvement
+
+
 
 📂 Dataset
 
@@ -39,6 +43,8 @@ Date / Month
 
 The project includes raw data and multiple pivot-based summaries for detailed analysis.
 
+
+
 🛠️ Tools & Technologies
 
 Microsoft Excel
@@ -51,7 +57,10 @@ Data Cleaning Techniques
 
 Business Intelligence Concepts
 
+
+
 📊 Key Analysis Performed
+
 📅 Month-wise Analysis
 
 Evaluated sales trends across different months to identify high and low performance periods.
@@ -75,6 +84,8 @@ Brand vs Month
 Brand vs Region
 To understand seasonal and geographic preferences.
 
+
+
 🔍 Insights
 
 Sales show noticeable seasonal patterns.
@@ -84,6 +95,8 @@ Regional performance varies significantly.
 Certain brands contribute a higher share of revenue.
 
 Retailer partnerships strongly impact total sales.
+
+
 
 📌 Recommendations
 
